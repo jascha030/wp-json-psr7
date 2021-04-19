@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/composer.json">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/src/Request.php">
           <value>
             <Attribute>
@@ -21,6 +28,20 @@
           <value>
             <Attribute>
               <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/tests/RequestTest.php">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/tests/ResponseTest.php">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
             </Attribute>
           </value>
         </entry>

@@ -8,4 +8,15 @@ use PHPUnit\Framework\TestCase;
 class RequestTest extends TestCase
 {
 
+    public function test__construct(): void
+    {
+    }
+
+    public function testFromWPRequest(): void
+    {
+    }
+
+    public function testGetWPRestRequest(): void
+    {
+    }
 }
