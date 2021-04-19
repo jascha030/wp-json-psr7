@@ -24,7 +24,9 @@
     }
   },
   "autoload-dev": {
-    "Jascha030\\WPJSON\\Test\\": "tests"
+    "psr-4": {
+      "Jascha030\\PHPUnit\\Tests\\WPJSON\\": "tests"
+    }
   },
   "config": {
     "platform": {
