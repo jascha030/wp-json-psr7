@@ -1,5 +1,5 @@
 {
-  "name": "jascha030/wp-json-utilities",
+  "name": "jascha030/wp-json-psr7",
   "description": "Basic PSR-7 compliant wrapper for the WP_REST_Request and WP_REST_Response classes. Uses Laminas' (formerly Zend Framework) PSR-7 Implementation Laminas\\Diactoros to achieve this.",
   "require-dev": {
     "roave/security-advisories": "dev-latest",
@@ -28,7 +28,7 @@
   },
   "config": {
     "platform": {
-      "php": "^7.4"
+      "php": "7.4"
     }
   }
 }
